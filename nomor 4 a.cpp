@@ -20,4 +20,3 @@ int main (){
 	if (flag ==1) cout<<"data ada!\n";
 		else cout<<"data tidak ada!\n";
 }
-
